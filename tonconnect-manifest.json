@@ -1,11 +1,7 @@
-// {
-//   "url": "https://slinaDan.github.io/my-twa",
-//   "name": "My TWA",
-//   "iconUrl": "https://slinaDan.github.io/my-twa/icon.png"
-// }
-{<font></font>
-  "url": "https://slinaDan.github.io/my-twa",<font></font>
-  "name": "My TWA",<font></font>
-  "iconUrl": "https://slinaDan.github.io/my-twa/icon.png"<font></font>
-}<font></font>
+{
+  "url": "https://slinaDan.github.io/test-twa",
+  "name": "My TWA",
+  "iconUrl": "https://slinaDan.github.io/test-twa/twa.png"
+}
+
 
